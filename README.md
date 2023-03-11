@@ -3,7 +3,3 @@
 
 - 🔭 I’m currently working on **TaskMate**
 - 🌱 I’m currently learning **React, Tailwind CSS**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
